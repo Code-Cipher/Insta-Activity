@@ -1,0 +1,2 @@
+# Insta-Activity
+Insta-Activity will be an instagram bot written in python3 which will like all the new recent posts in your feed [You will be able to choose the oldest date for each post] and add to a list of random comments which you will post if you haven't added a comment already! - There will also be an option to add exceptions for people you don't want to comment for / Like [either choosing a blacklist so you avoid certain people and do for rest or you can select a whitelist which will only like and comment for the instagram usernames you enter.
